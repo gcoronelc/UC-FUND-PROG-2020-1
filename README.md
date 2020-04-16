@@ -23,5 +23,10 @@
 ## Semana 01
 
 - Instalación de Dev C++: https://youtu.be/IVsHAGsjuEc
+- Tipos de datos y variables: https://youtu.be/7dJCdLHVE1U
+- Operadores aritméticos: https://youtu.be/WsPtnDRAhLs
+- Ejemplo de expresiones: https://youtu.be/eHTa-3LEk8I
+- Librería math.h: https://youtu.be/qnUzOVSf_g4
+
 
 
