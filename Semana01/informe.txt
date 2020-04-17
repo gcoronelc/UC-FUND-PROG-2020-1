@@ -1,0 +1,18 @@
+
+
+Por problema
+----------------
+- analisis
+  - datos de entrada
+	- proceso
+	- salida
+- programa
+  - codigo fuente (en el word y el *.cpp)
+- ejecución
+  - pantallas de ejecución
+	
+	
+INFORME
+- caratula
+- indice
+- desarrollo
