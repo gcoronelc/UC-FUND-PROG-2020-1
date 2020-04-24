@@ -1,0 +1,86 @@
+---------------------------------------------
+PROBLEMA
+---------------------------------------------
+Se necesita calcular los datos de una venta.
+Se tiene como entrada el precio y cantidad.
+El precio ya incluye el impuesto de venta.
+Se debe calcular:
+
+- Importe de la venta (base imponible)
+- El impuesto 
+- Total de la venta
+
+---------------------------------------------
+ANALISIS
+---------------------------------------------
+
+Entrada:
+-----------------------
+- Precio
+- Cantidad
+
+Salida
+-----------------------
+- Importe de la venta (base imponible)
+- El impuesto 
+- Total de la venta
+
+Analisis 
+-----------------------
+IGV = 18%
+
+ImporteVenta + Impuesto = TotalVenta  ----  (1)
+
+TotalVenta = precio * cantidad 
+
+Impuesto = ImporteVenta * 0.18    ---------  (2)
+
+(2) en (1)
+
+ImporteVenta + ImporteVenta * 0.18 = TotalVenta
+
+ImporteVenta * (1 + 0.18) = TotalVenta
+
+ImporteVenta * 1.18 = TotalVenta
+
+ImporteVenta = TotalVenta / 1.18  --------   (3)
+
+Aplicando (1)
+
+Impuesto = TotalVenta - ImporteVenta  ----   (4)
+
+
+Ejercicio Mental
+----------------------------------
+
+De compras en la Tienda
+
+Precio Pantalon: 100
+Cantidad:        5
+
+¿Cuanto pagas?
+
+a.- 590
+b.- 500 (Correcta)
+
+
+-----------------------------------------
+EJECUCION CORRECTA
+-----------------------------------------
+
+-------------------
+ENTRADA DE DATOS
+-------------------
+Precio: 100
+Cantidad: 5
+
+-------------------
+REPORTE
+-------------------
+Importe de la venta: 423.729
+Impuesto: 76.2712
+Total de la venta: 500
+
+
+
+
