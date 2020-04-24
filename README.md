@@ -31,5 +31,5 @@
 ## Semana 02 - 24.ABR.2020
 
 - Promedio de notas: https://youtu.be/1ge8X-1Tyfo
-- 
+
 
