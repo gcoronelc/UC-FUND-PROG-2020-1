@@ -32,4 +32,13 @@
 
 - Promedio de notas: https://youtu.be/1ge8X-1Tyfo
 
+## Seman 03 - 01.MAY.2020
+
+- Estructura if - 1: https://youtu.be/r5GbMsB0eOA
+- Estructura if - 2: https://youtu.be/tn67rumRqa0
+- Estructura switch - 1: https://youtu.be/hjDB7ev9ePM
+- Estructura switch - 2: https://youtu.be/18zUlAcjYB8
+- Ejemplo de menú: https://youtu.be/kOTC6AgEkn8
+
+
 
