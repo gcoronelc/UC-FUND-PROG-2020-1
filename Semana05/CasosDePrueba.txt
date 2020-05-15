@@ -1,0 +1,14 @@
+Caso 1
+===============
+Entrada: 3456
+Salida:  18
+
+Caso 2
+===============
+Entrada: 0
+Salida:  0
+
+Caso 3
+==============
+Entrada: -4567
+Salida: 22
