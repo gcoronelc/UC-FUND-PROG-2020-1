@@ -42,6 +42,16 @@
 
 ## Seman 04 - 08.MAY.2020
 
+- Undad 01: Evaluación mixta
 
+## Seman 05 - 15.MAY.2020
+
+
+## Seman 06 - 22.MAY.2020
+
+
+## Seman 07 - 29.MAY.2020
+
+-- Unidad 02: Evaluación desarrollada
 
 

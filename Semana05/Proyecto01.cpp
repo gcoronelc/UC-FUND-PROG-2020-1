@@ -8,6 +8,7 @@ int main(){
 	stringstream reporte;
 	// Leer el importe
 	cout << "Importe: "; cin >> importe;
+	
 	// Proceso
 	for(int i=1; i <= 8; i++){
 		switch(i){
@@ -50,6 +51,7 @@ int main(){
 			reporte << descBillete << cantBilletes << endl;
 		}
 	} // Del For
+	
 	// Reporte
 	cout << "\nREPORTE\n";
 	cout << reporte.str() << endl;
