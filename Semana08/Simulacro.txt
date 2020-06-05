@@ -1,0 +1,40 @@
+Simular un censo, se necesita saber
+de cada casa, cuantos son mhombres,
+cuantos son mujeres, cuantos son 
+niños y cuantos son adultos.
+
+Listado de las casas censadas.
+
+MENU
+
+1.- Registrar Casa
+2.- Reporte de avance
+3.- Reporte final
+4.- Salir
+
+
+CENSO NRO 1
+
+Casa CORONEL - MUÑOZ     6
+Casa VARGAS - TORRES     5
+
+
+Total de Casas           8
+Hombres                 20
+Mujeres                 22
+Niños                   15
+Adultos                 27
+
+
+Lectura por familia
+- Apellido: CORONEL-MUÑOZ
+- Cantidad personas: 5
+- Hombres: 2
+- Niños: 2
+
+Cantidad promedio de personas por familia.
+Cantidad promedio de mujeres por familia.
+cantidad promedio de niños por familia.
+
+
+
