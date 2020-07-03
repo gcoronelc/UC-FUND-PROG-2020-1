@@ -18,7 +18,7 @@ string nombCurso(int curso){
 			nombre = "Religion";
 			break;
 		case 5:
-			nombre = "Quimica";
+			nombre = "Quimica General";
 			break;
 	}
 	return nombre;
@@ -79,12 +79,48 @@ void actualizarlistado(int curso, string estudiante, double precio, stringstream
 	repoListado << nombCurso(curso) << "\t" << estudiante << "\t" << precio << endl;
 }
 
+void procesarMatricula(int curso, double precio,
+int &matCurso1, int &matCurso2, int &matCurso3, int &matCurso4, int &matCurso5,
+double &totalCurso1, double &totalCurso2, double &totalCurso3, double &totalCurso4, double &totalCurso5){
+	switch(curso){
+		case 1:
+			matCurso1++;
+			totalCurso1 += precio;
+			break;
+		case 2:
+			matCurso2++;
+			totalCurso2 += precio;
+			break;
+		case 3:
+			matCurso3++;
+			totalCurso3 += precio;
+			break;
+		case 4:
+			matCurso4++;
+			totalCurso4 += precio;
+			break;
+		case 5:
+			matCurso5++;
+			totalCurso5 += precio;
+			break;											
+	}
+}
+					
 void listado(stringstream &repoListado){
 	cout << repoListado.str() << endl;
 }
 
-void resumen(){
-	cout << "Resumen\n";
+void resumen(int matCurso1, int matCurso2, int matCurso3, int matCurso4, int matCurso5,
+double totalCurso1, double totalCurso2, double totalCurso3, double totalCurso4, double totalCurso5){
+	cout << "\n\nRESUMEN\n\n";
+	cout << "CURSO\t\tMATRICULADOS\tTOTAL\n";
+	cout << "------------------------------------------------------\n";
+	cout << nombCurso(1) << "\t" << matCurso1 << "\t" << totalCurso1 << endl;
+	cout << nombCurso(2) << "\t\t" << matCurso2 << "\t" << totalCurso2 << endl;
+	cout << nombCurso(3) << "\t\t" << matCurso3 << "\t" << totalCurso3 << endl;
+	cout << nombCurso(4) << "\t\t" << matCurso4 << "\t" << totalCurso4 << endl;
+	cout << nombCurso(5) << "\t" << matCurso5 << "\t" << totalCurso5 << endl;
+	cout << "------------------------------------------------------\n";
 }
 
 
