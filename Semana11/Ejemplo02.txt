@@ -1,0 +1,24 @@
+PROBLEMA
+-------------------------------------
+- Requerimientos de datos visibles
+- Requerimientos de datos ocultos
+
+¿Datos de entrada?
+-------------------------------------
+- precio
+- cantidad de kilos
+
+¿Que se debe calcular?
+-------------------------------------
+- importe
+- porcentaje de descuento
+- descuento
+- neto a pagar
+
+¿Que se presenta en el reporte
+-------------------------------------
+- importe
+- descuento
+- neto a pagar
+
+
