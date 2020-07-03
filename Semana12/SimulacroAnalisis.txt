@@ -1,0 +1,25 @@
+
+CURSOS
+---------------
+1.- Curso 1
+2.- Curso 2
+3.- Curso 3
+4.- Curso 4
+5.- Curso 5
+
+
+MATRICULA
+-----------------------
+- Curso 
+- Estudiante
+- Precio
+
+
+MENU
+-----------------
+1.- Matricula 
+2.- Listado de matriculados
+3.- Resumen
+4.- Salir
+
+
