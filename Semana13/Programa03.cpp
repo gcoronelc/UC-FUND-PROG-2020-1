@@ -25,12 +25,15 @@ int main(){
 	}while( ! (categoria == 'A' || categoria == 'B' || categoria == 'C'));
 	// Proceso
 	switch(categoria){
-		case 'A': descuento = cuota * 0.5;
-		break;
-		case 'B': descuento = cuota * 0.4;
-		break;
-		case 'C': descuento = cuota * 0.3;
-		break;
+		case 'A': 
+			descuento = cuota * 0.5;
+			break;
+		case 'B': 
+			descuento = cuota * 0.4;
+			break;
+		case 'C': 
+			descuento = cuota * 0.3;
+			break;
 	}
 	importe = cuota - descuento;
 	// Reporte
