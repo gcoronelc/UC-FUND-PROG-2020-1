@@ -23,3 +23,8 @@ MENU
 4.- Salir
 
 
+LISTADO
+
+CURSO          ESTUDIANTE            PRECIO
+--------------------------------------------------------------
+MATEMATICAS    JOSE                  300
