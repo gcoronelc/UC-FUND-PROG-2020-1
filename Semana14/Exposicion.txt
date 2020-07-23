@@ -1,10 +1,10 @@
 EXPOSIXIÓN CON PPT
 --------------------
-1.- Presentación
-2.- Enunciado
-3.- Analisis
-4.- Diseño modular
-5.- Código
-6.- Ejecución
-7.- Conclusiones
-8.- Recomendaciones
+1.- Presentación     - Pepe
+2.- Enunciado        - Manuel
+3.- Analisis         - Karla
+4.- Diseño modular   - Javier
+5.- Código           - Manuel
+6.- Ejecución        - Pepe
+7.- Conclusiones     - Delia
+8.- Recomendaciones  - Delia
